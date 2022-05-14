@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Younes Bensouda</title>
-    <link>//localhost:64201/tags/</link>
+    <link>//localhost:64207/tags/</link>
     <description>Recent content in Tags on Younes Bensouda</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 14 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:64201/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:64207/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>welcome</title>
-      <link>//localhost:64201/tags/welcome/</link>
+      <link>//localhost:64207/tags/welcome/</link>
       <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:64201/tags/welcome/</guid>
+      <guid>//localhost:64207/tags/welcome/</guid>
       <description></description>
     </item>
     
     <item>
       <title>projects</title>
-      <link>//localhost:64201/tags/projects/</link>
+      <link>//localhost:64207/tags/projects/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
-      <guid>//localhost:64201/tags/projects/</guid>
+      <guid>//localhost:64207/tags/projects/</guid>
       <description></description>
     </item>
     

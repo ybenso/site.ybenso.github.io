@@ -2,31 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:63842/</loc>
+    <loc>//localhost:64182/</loc>
     <lastmod>2021-05-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:63842/blog/</loc>
+    <loc>//localhost:64182/blog/</loc>
     <lastmod>2021-05-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:63842/tags/</loc>
+    <loc>//localhost:64182/tags/</loc>
     <lastmod>2021-05-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:63842/tags/welcome/</loc>
+    <loc>//localhost:64182/tags/welcome/</loc>
     <lastmod>2021-05-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:63842/blog/emoji-support/</loc>
+    <loc>//localhost:64182/blog/emoji-support/</loc>
     <lastmod>2021-05-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:63842/categories/</loc>
+    <loc>//localhost:64182/categories/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
   </url><url>
-    <loc>//localhost:63842/projects/</loc>
+    <loc>//localhost:64182/projects/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
   </url><url>
-    <loc>//localhost:63842/tags/projects/</loc>
+    <loc>//localhost:64182/tags/projects/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
   </url><url>
-    <loc>//localhost:63842/categories/projects/</loc>
+    <loc>//localhost:64182/categories/projects/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
   </url>
 </urlset>
